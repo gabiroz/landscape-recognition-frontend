@@ -1,30 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaafebc3-fa94-420d-827f-580e0469407c" name="Default Changelist" comment="" />
+    <list default="true" id="eaafebc3-fa94-420d-827f-580e0469407c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/new_model/group1-shard1of1 .bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_model/model.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newest_model/group1-shard1of1.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newest_model/model.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GglFlLote6rflmQLbaxOlpqaoo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/gabriellarozsa/ml-next",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -41,7 +61,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666818005898</updated>
-      <workItem from="1666818007340" duration="30450000" />
+      <workItem from="1666818007340" duration="32049000" />
+      <workItem from="1667247586021" duration="179000" />
+      <workItem from="1667247955041" duration="15883000" />
+      <workItem from="1668633192147" duration="549000" />
+      <workItem from="1669145791640" duration="4928000" />
+      <workItem from="1669226377420" duration="402000" />
+      <workItem from="1669226946171" duration="146000" />
+      <workItem from="1669227344952" duration="2678000" />
     </task>
     <servers />
   </component>
