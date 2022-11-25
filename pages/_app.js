@@ -36,7 +36,7 @@ useEffect(() => {
     const img = e.target.files[0];
     setFile(img);
 
-    const interval = setInterval(() => {
+    const interval = setTimeout(() => {
       predict(uploadedImage.current)
     }, 50);
     return () => clearInterval(interval);
@@ -58,26 +58,28 @@ useEffect(() => {
   return (
     <main className="wrapper">
       <div className="container">
-        <div className="row">
+        <div className="column">
           <h1>
-            Landscape Recognition
+            LANDSCAPE RECOGNITION
           </h1>
-        </div>
-      <div className="input">
+      <div className="input_container">
         <input type="file" accept="image/*" onChange={handleFileInput} width={150} height={150}/>
       </div>
-      {fileDataURL ?
-        <p className="img-preview-wrapper">
+      </div>
+      <div className="column">
+        {fileDataURL ?
+        <p>
           {
-            <img src={fileDataURL} alt="preview" ref={uploadedImage} />
+            <img src={fileDataURL} alt="preview" ref={uploadedImage} height={300} width={300} />
           }
         </p> : null}
-      {category ?
-        <p className="">
+        {category ?
+        <p className="result">
           {
             category
           }
         </p> : null}
+      </div>
       </div>
     </main>
   )
