@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eaafebc3-fa94-420d-827f-580e0469407c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +68,7 @@
       <workItem from="1669226946171" duration="146000" />
       <workItem from="1669227344952" duration="4090000" />
       <workItem from="1669243314262" duration="7194000" />
-      <workItem from="1669390647268" duration="1320000" />
+      <workItem from="1669390647268" duration="4303000" />
     </task>
     <task id="LOCAL-00001" summary="import working model3">
       <created>1669240192603</created>
@@ -78,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669240192603</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix memory leak and css">
+      <created>1669394122351</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669394122351</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="import working model3" />
-    <option name="LAST_COMMIT_MESSAGE" value="import working model3" />
+    <MESSAGE value="fix memory leak and css" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix memory leak and css" />
   </component>
 </project>
