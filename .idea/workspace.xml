@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaafebc3-fa94-420d-827f-580e0469407c" name="Default Changelist" comment="">
+    <list default="true" id="eaafebc3-fa94-420d-827f-580e0469407c" name="Default Changelist" comment="fix memory leak and css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model1.json/group1-shard1of2.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model1.json/group1-shard2of2.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model1.json/model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/group1-shard1of1 .bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/group1-shard1of1.bin" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard1of1.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/model.json" beforeDir="false" afterPath="$PROJECT_DIR$/model/model.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +75,7 @@
       <workItem from="1669226946171" duration="146000" />
       <workItem from="1669227344952" duration="4090000" />
       <workItem from="1669243314262" duration="7194000" />
-      <workItem from="1669390647268" duration="4303000" />
+      <workItem from="1669390647268" duration="7581000" />
     </task>
     <task id="LOCAL-00001" summary="import working model3">
       <created>1669240192603</created>
@@ -84,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669394122351</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix memory leak and css">
+      <created>1669415113754</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669415113754</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
